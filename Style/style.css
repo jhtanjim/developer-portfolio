@@ -19,6 +19,10 @@
 
 }
 
+.fa-solid {
+    padding-right: 10px;
+}
+
 /* header and nav */
 .header {
     background: #FFF8F3;
